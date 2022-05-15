@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi i am Uroš
+
+Student of the Faculty of Computing in Belgrade, currently
+on third year
+
+I am looking for opportunity to
+grow and learn new skills
+
+You can see some of my work here 
 
 <!--
 **UrosNikolic11/UrosNikolic11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
